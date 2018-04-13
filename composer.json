@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "php": "~7.0",
+        "phpunit/phpunit": "6.0",
+        "codeception/codeception": "^2.4",
+        "codeception/specify": "*",
+        "codeception/verify": "*",
+        "me-io/selenium-appium-server": "~1",
+        "facebook/webdriver": "~1"
+    }
+}
