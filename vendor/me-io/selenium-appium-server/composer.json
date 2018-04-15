@@ -1,0 +1,21 @@
+{
+  "name": "me-io/selenium-appium-server",
+  "description": "Utilities for installing and running appium and Selenium (with Chromedriver)",
+  "keywords": [
+    "Selenium",
+    "Appium",
+    "Behat",
+    "Selenium-Server",
+    "Appium-Server",
+    "Chromedriver",
+    "Browser Testing"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {},
+  "bin": [
+    "bin/appium.sh",
+    "bin/selenium.sh"
+  ]
+}

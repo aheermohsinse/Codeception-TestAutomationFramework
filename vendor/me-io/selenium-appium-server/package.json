@@ -1,0 +1,35 @@
+{
+  "name": "selenium-appium-server",
+  "version": "1.0.0",
+  "description": "Simple package that will configure your enviorment for using selenium or appium servers.",
+  "keywords": [
+    "test",
+    "testing",
+    "unit",
+    "unit-testing",
+    "appium",
+    "selenium",
+    "mobile-testing",
+    "android-testing",
+    "ios-testing",
+    "boilerplate",
+    "appium-configuration",
+    "selenium-configuration"
+  ],
+  "scripts": {
+    "contributors:add": "./node_modules/.bin/all-contributors add",
+    "contributors:generate": "./node_modules/.bin/all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-io/selenium-appium-server.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/me-io/selenium-appium-server/issues"
+  },
+  "homepage": "https://github.com/me-io/selenium-appium-server#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^4.10.1"
+  }
+}
