@@ -3,11 +3,10 @@
 use Codeception\Util\HttpCode as responseValidate;
 
 /**
- * Class ListingPackagesCest
+ * Class basicAPITestCest
  */
-class ListingPackagesCest
+class basicAPITestCest
 {
-
     /**
      * DESC
      * @param $I
