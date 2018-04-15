@@ -41,3 +41,4 @@ To run specific tests you may specify the test class name:
 
 ``
 ./vendor/codeception/codeception/codecept run tests/unit/Modules/Test/Models/BasicTest.php
+``
