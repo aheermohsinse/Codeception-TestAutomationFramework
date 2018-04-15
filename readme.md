@@ -31,6 +31,14 @@ To run only tests
 ./vendor/codeception/codeception/codecept run api 
 ``
 
+``
+./vendor/codeception/codeception/codecept run functional 
+``
+
+``
+./vendor/codeception/codeception/codecept run acceptance 
+``
+
 To run only unit tests
 
 ``
