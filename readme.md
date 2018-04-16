@@ -6,9 +6,6 @@ You can perform end to end testing with this framework mainly:
 - Unit Testing
 - Acceptance Testing
 
-Link: 
-https://medium.com/@aheermohsin.se/end-to-end-test-automation-framework-codeception-94e0ae70c6f2
-
 ## Installation
 
 - Clone the repository 
