@@ -14,3 +14,7 @@ gherkin:
       default:
         - AcceptanceTester
         - AdditionalSteps
+reporters:
+    xml: Codeception\PHPUnit\Log\JUnit
+    html: Codeception\PHPUnit\ResultPrinter\HTML
+    report: Codeception\PHPUnit\ResultPrinter\Report
